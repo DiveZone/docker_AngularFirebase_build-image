@@ -5,3 +5,4 @@ This image has the following packages pre-installed:
 * npm @latest
 * @angular/cli @latest
 * firebase-tools @latest
+* Java 11 (for Firebase emulators)
