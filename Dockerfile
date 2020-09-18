@@ -6,4 +6,5 @@ RUN npm i -g npm@latest \
             @angular/cli@latest \
             firebase-tools@latest \
             mocha@latest \
+            nx@latest \
         --no-audit

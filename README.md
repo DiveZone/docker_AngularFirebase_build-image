@@ -6,4 +6,5 @@ This image has the following packages globally pre-installed:
 * @angular/cli @latest
 * firebase-tools @latest
 * mocha @latest
+* nx @latest
 * Java 11 (for Firebase emulators)
