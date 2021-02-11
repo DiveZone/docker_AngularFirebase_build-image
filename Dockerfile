@@ -7,4 +7,4 @@ RUN npm i -g npm@latest \
             firebase-tools@latest \
             mocha@latest \
             nx@latest \
-        --no-audit
+        --no-audit --unsafe-perm
